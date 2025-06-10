@@ -1,0 +1,23 @@
+{
+    "name": "candela-obscura-personalizado",
+    "title": "Candela Obscura (Personalizado)",
+    "description": "Um sistema personalizado para Candela Obscura, focado em uma estética fiel ao livro.",
+    "version": "0.0.1",
+    "author": "Guilherme Fabricio",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "13"
+    },
+    "esmodules": [
+      "system.js"
+    ],
+    "styles": [
+      "css/style.css"
+    ],
+    "packs": [],
+    "languages": [],
+    "socket": false,
+    "url": "https://github.com/SEU-NOME-DE-USUARIO/foundry-candela-personalizado",
+    "manifest": "https://raw.githubusercontent.com/SEU-NOME-DE-USUARIO/foundry-candela-personalizado/main/system.json",
+    "download": "https://github.com/SEU-NOME-DE-USUARIO/foundry-candela-personalizado/archive/refs/tags/v0.0.1.zip"
+  }
